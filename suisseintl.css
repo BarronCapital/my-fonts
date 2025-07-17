@@ -1,0 +1,9 @@
+/* SuisseIntl */
+@font-face {
+  font-family: 'SuisseIntl';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://cdn.githubraw.com/BarronCapital/my-fonts/de6fc3e571a1c71346f50bd0129857734ea6bdc9/suisseintl-regular-webfont.woff') format('woff');
+  unicode-range: U+0000-00FF;
+}
