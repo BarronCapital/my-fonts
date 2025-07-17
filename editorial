@@ -6,10 +6,3 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'SuisseIntl-Regular';
-  src: url('https://cdn.jsdelivr.net/gh/BarronCapital/my-fonts@0cf31610f9a04fe26a070728fde46321723f8ac3/SuisseIntl-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
