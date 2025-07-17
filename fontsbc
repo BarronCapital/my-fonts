@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'EditorialNew-Ultralight';
+  src: url('https://cdn.jsdelivr.net/gh/BarronCapital/my-fonts@4c9f09ab061787c8b6700f2320ee5d51f0802d96/EditorialNew-Ultralight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SuisseIntl-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/BarronCapital/my-fonts@0cf31610f9a04fe26a070728fde46321723f8ac3/SuisseIntl-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
